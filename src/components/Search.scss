@@ -1,0 +1,32 @@
+form.searchbar__container {
+  background-color: white;
+  padding: 1rem 5rem;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 1.5rem;
+  border-radius: 25px;
+}
+
+.searchbar {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  color: rgb(114, 126, 142);
+  font-size: 1rem;
+  font-family: inherit;
+}
+
+// .searchButton {
+//   padding: 0.35em 1.2em;
+//   font-family: inherit;
+//   font-size: 1rem;
+//   border: none;
+//   cursor: pointer;
+//   color: #fff;
+//   background-color: #419efa;
+
+//   &:hover {
+//     background-color: #2b7ccc;
+//   }
+// }

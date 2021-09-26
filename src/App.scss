@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  // display: flex;
+  // justify-content: center;
+  // align-items: center;
+  // height: 100vh;
+}
+
+.title {
+  text-align: center;
+  font-size: 3rem;
+  color: #2f5d8b;
+  margin-bottom: 1rem;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+body {
+  background-color: lightblue;
+}
